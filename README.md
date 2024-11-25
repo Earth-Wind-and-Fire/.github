@@ -1,1 +1,3 @@
-# Entreprise UTBM
+# Groupe UTBM
+
+Arnaud et Antoine
